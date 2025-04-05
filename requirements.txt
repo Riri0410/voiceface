@@ -5,6 +5,5 @@ sounddevice
 wavio
 pandas
 scikit-learn
-time
 streamlit-extras
 numpy
