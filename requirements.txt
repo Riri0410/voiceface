@@ -4,7 +4,7 @@ librosa
 sounddevice
 wavio
 pandas
-sklearn
+scikit-learn
 time
 streamlit-extras
 numpy
