@@ -1,0 +1,10 @@
+opencv-python
+tensorflow
+librosa
+sounddevice
+wavio
+pandas
+sklearn
+time
+streamlit-extras
+numpy
